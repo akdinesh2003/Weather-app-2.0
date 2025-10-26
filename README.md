@@ -281,16 +281,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ---
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. **Check** the troubleshooting section above
-2. **Search** existing issues on GitHub
-3. **Create** a new issue with detailed description
-4. **Include** browser version and error messages
-
----
 
 <div align="center">
 
